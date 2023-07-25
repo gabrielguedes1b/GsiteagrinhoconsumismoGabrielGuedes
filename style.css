@@ -1,6 +1,6 @@
 body {
-    color: white;
-    background-color: rgb(7, 78, 66);
+    color: rgb(54, 24, 24);
+    background-color: rgb(64, 223, 196);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -18,8 +18,8 @@ a {
 }
 
 header img {
-    width: 150px;
-    height: 150px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     border: 5px solid #5BBE42;
 }
@@ -31,25 +31,6 @@ header img {
 
 h1 {
     color: #5BBE42;
-}
-
-footer img {
-    width: 40px;
-    height: 40px;
-}
-
-footer {
-    display: flex;
-    justify-content: center;
-}
-
-footer a {
-    margin: 20px;
-    text-align: center;
-}
-
-footer p {
-    margin-top: 2px;
 }
 
 .container {
@@ -74,10 +55,4 @@ nav a:hover {
     height: 100px;
 }
 
-button {
-    color: black;
-    background-color: white;
-    border: none;
-    width: 100px;
-    height: 30px;
-}
+
